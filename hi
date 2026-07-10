@@ -1,4 +1,7 @@
-helooooo
+#include <iostream>
+using namespace std;
 
-
-heeee
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
